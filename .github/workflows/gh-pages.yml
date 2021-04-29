@@ -20,7 +20,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL=https://dimboo.github.io/
+        run: hugo --minify --baseURL=https://dimboo.github.io/hugo-site/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
