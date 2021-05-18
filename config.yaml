@@ -10,6 +10,7 @@ author:                                       # Information about the website au
   location: New York
   phone: (999) 999-9999
   hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET"
+enableEmoji: true
 
 menu:                                         # Menu placement
   main:                                       #    - Name of the menu
